@@ -28,8 +28,11 @@
     "xlsx-populate": "^1.21.0"
   },
   "devDependencies": {
+    "@types/node": "^20.6.0",
+    "@types/react": "^18.2.21",
     "concurrently": "^8.2.1",
     "eslint": "^8.49.0",
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "typescript": "^5.2.2"
   }
 }
